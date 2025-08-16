@@ -1,5 +1,5 @@
-# Controle-e-Analise-De-Transa-o-com-POO
-istema de controle de despesas para cartões corporativos usados por funcionários.<br>
+# Controle e Análise de Transação com POO C#
+O projeto é um sistema de controle de despesas para cartões corporativos usados por funcionários.<br>
 Cada funcionário possui um limite mensal e pode fazer diversas transações. <br>
 O sistema deve informar se o funcionário está dentro do limite ou se ultrapassou o valor permitido.
 
